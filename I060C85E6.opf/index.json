@@ -1,0 +1,75 @@
+{
+    "id": "38ccede35b5248a684472f31092d98b5",
+    "annotation_type": "index",
+    "revision": "00001",
+    "annotations": {
+        "07d836fa17e547aeb9c5dd6dfeac382a": {
+            "base": "8BA2.txt",
+            "Chapters": [
+                {
+                    "title": "Title",
+                    "span": {
+                        "start": 0,
+                        "end": 27
+                    }
+                },
+                {
+                    "title": "Preface",
+                    "span": {
+                        "start": 28,
+                        "end": 1640
+                    }
+                },
+                {
+                    "title": "Chapters I-V",
+                    "span": {
+                        "start": 1641,
+                        "end": 10271
+                    }
+                },
+                {
+                    "title": "Chapters VI-X",
+                    "span": {
+                        "start": 10272,
+                        "end": 23324
+                    }
+                },
+                {
+                    "title": "Chapters XI-XV",
+                    "span": {
+                        "start": 23325,
+                        "end": 31135
+                    }
+                },
+                {
+                    "title": "Chapters XVI-XX",
+                    "span": {
+                        "start": 31136,
+                        "end": 43061
+                    }
+                },
+                {
+                    "title": "Chapters XXI-XXV",
+                    "span": {
+                        "start": 43062,
+                        "end": 57027
+                    }
+                },
+                {
+                    "title": "Chapters XXVI-XXVII",
+                    "span": {
+                        "start": 57028,
+                        "end": 62325
+                    }
+                },
+                {
+                    "title": "Colophon",
+                    "span": {
+                        "start": 62326,
+                        "end": 62438
+                    }
+                }
+            ]
+        }
+    }
+}
